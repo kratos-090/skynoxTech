@@ -1,4 +1,5 @@
-const app=require('./app');
+// main file
+const app = require('./app');
 
 
 const port=process.env.PORT;

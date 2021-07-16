@@ -1,4 +1,5 @@
-const express=require('express');
+// file attaching routes 
+const express = require('express');
 require('./db/mongoose');
 const userRouter=require('./routers/user');
 
